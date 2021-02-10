@@ -58,7 +58,7 @@ time and foecasting for the future.
 
 **Stock Prediction**:
 
-* Analysis making predicting trends using line plots, perform dickey-fuller test, SARIMAX and correlations.
+* Analysis making predicting trends using line plots, perform dickey-fuller test.
 * Challenges: Use a lot of compute resources to run ARIMAX result, ETA !< 1hr : 50m
 
 ### Links to the datasets for the projects:
