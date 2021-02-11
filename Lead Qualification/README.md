@@ -1,7 +1,7 @@
 # Lead Qualification 
 
 #### -- Project Status: [Completed] 
-<img src="https://cms.pipedriveassets.com/lead-qualification--webp.png" width="800" height="400">
+<img src="https://cms.pipedriveassets.com/lead-qualification--webp.png" width="1000" height="400">
 
 ## Project Objective
 
