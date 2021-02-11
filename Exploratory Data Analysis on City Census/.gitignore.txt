@@ -1,0 +1,4 @@
+new_.txt
+Stock_Predictions.ipynb
+Carsales hw.ipynb
+Air Quality UCI.ipynb
